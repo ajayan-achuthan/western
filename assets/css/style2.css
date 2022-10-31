@@ -1,0 +1,44 @@
+.flex-fill {
+    flex:1 1 auto;
+}
+
+.topnav{
+    font-size: 1000px;
+}
+
+#hero{
+    min-height: 100vh;
+    background-image: ;
+}
+
+#contactsub{
+    transform: scale(0.87)  !important;
+}
+
+#contact{
+    position: relative !important; 
+    transform: translateY(-10px) !important;
+}
+#team{
+    position: relative !important; 
+    transform: scale(0.8) translateY(-10px) !important;
+
+}
+
+#hero-img{
+    position: relative !important; 
+    transform: scale(0.2) translateY(-90px) !important;
+
+}
+
+#logowm{
+    width: 5%;
+}
+
+#services{
+    padding: 40px;
+}
+
+#heroimg{
+    transform: scale(0.8) !important;
+}
