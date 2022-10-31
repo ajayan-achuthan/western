@@ -42,3 +42,19 @@
 #heroimg{
     transform: scale(0.8) !important;
 }
+
+@media (max-width: 555px) {
+    #logowm{
+        width: 12%;
+        transform: translateY(3px);
+    }
+    #header .logo a { 
+        font-size: 13px;
+        transform: translateY(6px);
+      }
+    #header {
+        height: 40px;
+      }
+    
+  }
+
